@@ -27,4 +27,4 @@ This repository contains ICT lab assignments and supporting files.
 
 ## Author
 
-- Eshal Ayub (`B25F1061AI100`)
+- Eshal Ayub 
